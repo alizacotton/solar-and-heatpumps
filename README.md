@@ -1,4 +1,4 @@
-# Solar and heatpumps Data Generator
+# Solar and Heatpumps Data Generator
 This is a program designed to gather data on solar and heat pump feasability for residents of a certain geographic area.
 
 You will need to edit the file env.py in order to configure your environment and run the program successfully. 
